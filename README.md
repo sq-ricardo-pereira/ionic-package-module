@@ -1,0 +1,2 @@
+# ionic-package-module
+teste
