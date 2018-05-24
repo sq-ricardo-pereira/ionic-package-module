@@ -18,10 +18,10 @@ import { IonicModule } from 'ionic-angular';
     ]
 })
 export class TesteModule {
-  static forRoot(): ModuleWithProviders {
-    return {
-      ngModule: TesteModule,
-      providers: [TesteProvider]
-    };
-  }
+    static forRoot(): ModuleWithProviders {
+        return {
+            ngModule: TesteModule,
+            providers: [TesteProvider]
+        };
+    }
 }

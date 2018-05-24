@@ -1,0 +1,1 @@
+{"version":3,"file":"teste-component.ngfactory.js","sourceRoot":"","sources":["../../../src/components/teste-component.ngfactory.ts","../../../src/components/teste-component.ts.TesteComponent.html"],"names":[],"mappings":";;;;;;;;;;;gECAA,4EAAK,KAAA,kDAAqB","sourcesContent":["import * as i0 from '@angular/core';\ni0.ComponentFactory;\n","<div>Testando o componente</div>"]}

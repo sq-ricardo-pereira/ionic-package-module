@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../src/index.ts"],"names":[],"mappings":"AAAA,cAAc,gBAAgB,CAAC;AAC/B,cAAc,8BAA8B,CAAC;AAC7C,cAAc,4BAA4B,CAAC","sourcesContent":["export * from './teste.module';\nexport * from './components/teste-component';\nexport * from './providers/teste-provider';"]}

@@ -5,5 +5,5 @@ import { Component } from '@angular/core';
   template: `<div>Testando o componente</div>`
 })
 export class TesteComponent {
-  constructor() {}
+  constructor() { }
 }
