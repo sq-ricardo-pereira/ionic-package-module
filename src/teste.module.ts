@@ -4,10 +4,6 @@ import { TesteProvider } from './providers/teste-provider';
 import { IonicModule } from 'ionic-angular';
  
 @NgModule({
-    imports: [
-        // Only if you use elements like ion-content, ion-xyz...
-        IonicModule
-    ],
     declarations: [
         // declare all components that your module uses
         TesteComponent
