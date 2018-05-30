@@ -12,6 +12,7 @@
     "lib": ["dom", "es2015"],
     "outDir": "dist"
   },
+  "baseUrl": "./src",
   "exclude": [
     "node_modules",
     "dist",
