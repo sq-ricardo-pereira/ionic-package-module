@@ -1,7 +1,6 @@
 import { NgModule } from '@angular/core';
 import { TesteComponent } from './components/teste-component';
 import { TesteProvider } from './providers/teste-provider';
-import { IonicModule } from 'ionic-angular';
 var TesteModule = (function () {
     function TesteModule() {
     }
@@ -13,9 +12,6 @@ var TesteModule = (function () {
     };
     TesteModule.decorators = [
         { type: NgModule, args: [{
-                    imports: [
-                        IonicModule
-                    ],
                     declarations: [
                         TesteComponent
                     ],
